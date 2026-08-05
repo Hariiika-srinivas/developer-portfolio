@@ -11,5 +11,8 @@ export const personalData = {
   linkedIn: 'www.linkedin.com/in/m-harika-b9753a397',
   leetcode: "https://leetcode.com/u/Mharika05/",
   devUsername: "Mharika-dev",
-  resume: "/resume.pdf"
+  resume: "/resume.pdf",
+  twitter: "#",
+  stackOverflow: "#",
+  facebook: "#",
 }
