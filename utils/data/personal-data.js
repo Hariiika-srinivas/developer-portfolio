@@ -1,6 +1,6 @@
 export const personalData = {
   name: "M HARIKA",
-  profile: 'd:\Pictures\PIC1.jpg',
+  profile: "/profile.png",
   designation: "Software Developer",
   description: "My name is M HARIKA . I'm a Computer Science Engineering student passionate about Artificial Intelligence, Machine Learning, and Backend Development. I enjoy building practical web applications and AI-powered solutions while continuously learning new technologies.My skills include Python, FastAPI, TensorFlow, NumPy, React, HTML, CSS, DBMS, and Data Structures & Algorithms. I love solving real-world problems through code and am always looking for opportunities to learn, collaborate, and grow as a software developer.I'm currently expanding my knowledge in Generative AI and modern backend technologies while working on projects that strengthen my development and problem-solving skills.",
   email: 'harikam500@gmail.com',
