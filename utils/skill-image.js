@@ -1,4 +1,6 @@
 import adobeXd from '../app/assets/svg/skills/adobe-xd.svg';
+import fastapi from '../app/assets/svg/skills/fastapi.svg';
+import postman from '../app/assets/svg/skills/postman.svg';
 import adobeaudition from '../app/assets/svg/skills/adobeaudition.svg';
 import afterEffects from '../app/assets/svg/skills/after-effects.svg';
 import angular from '../app/assets/svg/skills/angular.svg';

@@ -10,10 +10,8 @@ export const skillsData = [
   'MySQL',
   'PostgreSQL',
   'Git',
-  'Postman',
   'Python',
   'Java',
-  'JS',
   'C',
   'C++'
   ]
