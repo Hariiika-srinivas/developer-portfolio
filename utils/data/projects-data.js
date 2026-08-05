@@ -1,6 +1,6 @@
 export const projectsData = [
     {
-         id: 1,
+        id: 1,
         name: 'Health Companion App',
         description: 'Developed an AI-powered healthcare application focused on providing users with intelligent health assistance and personalized recommendations. The project integrates modern web technologies with AI capabilities to create an interactive and user-friendly healthcare platform.',
         tools: ['React', 'Node.js', 'Express', 'MongoDB', 'OpenAI API', 'JavaScript', 'HTML', 'CSS'],

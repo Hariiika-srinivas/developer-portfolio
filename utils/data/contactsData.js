@@ -1,11 +1,10 @@
 export const contactsData = {
-    email: 'abusaid7388@gmail.com',
-    phone: '+8801608797655',
-    address: 'Middle Badda, Dhaka, Bangladesh - 1212 ',
-    github: 'https://github.com/said7388',
-    facebook: 'https://www.facebook.com/abusaid.riyaz/',
-    linkedIn: 'https://www.linkedin.com/in/abu-said-bd/',
-    twitter: 'https://twitter.com/said7388',
-    stackOverflow: 'https://stackoverflow.com/users/16840768/abu-said',
-    devUsername: "said7388"
+    email: 'harikam500@gmail.com',
+    phone: '+916366109664',
+    address: 'New Indra Nagar ,SRP Colony ,16th ward 2nd cross ,house no 166 ,near new auto stand Ballari,Karnataka 583101 ',
+    github: 'https://github.com/Hariiika-srinivas',
+    instagram: 'https://www.instagram.com/harika._srinivas._/',
+    linkedIn: 'www.linkedin.com/in/m-harika-b9753a397',
+    leetcode: "https://leetcode.com/u/Mharika05/",
+    devUsername: "Mharika-dev"
 }
