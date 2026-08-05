@@ -1,7 +1,7 @@
 export const experiences = [
   {
     id: 1,
-    title: 'Hackathon Participant',
+    title: "Hackathon Participant",
     company: "IEEE Computer Society BITM.",
     duration: "December 2025"
   },

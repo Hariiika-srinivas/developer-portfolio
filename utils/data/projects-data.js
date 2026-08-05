@@ -34,6 +34,15 @@ export const projectsData = [
         role: 'Frontend Developer',
         code: 'https://github.com/Hariiika-srinivas/simple-calculator-using-js',
         demo: '',
+    },
+    {
+         id: 4,
+        name: 'Cafeteria Management Dashboard',
+        description: 'Designed an interactive Power BI dashboard to monitor cafeteria operations, including total sales, profit, customer trends, best-selling menu items, and monthly revenue. Cleaned and transformed the dataset using Power Query and created DAX measures to generate meaningful business insights.',
+        tools: ['Power BI', 'Excel', 'DAX', 'Power Query', 'Data Modeling'],
+        role: 'Data Analyst',
+        code: '',
+        demo: '',
     }
 ];
 
